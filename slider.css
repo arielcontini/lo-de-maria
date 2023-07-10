@@ -39,6 +39,9 @@ top:-220px;
   justify-content: center;
   align-items: center;
 }
+.swiper-button-next{
+  color:#999999;
+}
 
 .swiper-slide img {
   display: block;
